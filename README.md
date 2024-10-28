@@ -41,14 +41,14 @@ This commands includes
 
 # IPCONFIG:
 ![image](https://github.com/AnbuSelvanS7/4.Execution_of_NetworkCommends/assets/151528411/07f7db98-4936-4453-b7c7-763724b74ce1)
-<br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br>
 # NETSTAT:
 ![image](https://github.com/AnbuSelvanS7/4.Execution_of_NetworkCommends/assets/151528411/4d0ddaf6-adf6-4745-8d07-0a708b108c52)
 
 
 # CURL:
 ![image](https://github.com/AnbuSelvanS7/4.Execution_of_NetworkCommends/assets/151528411/28a762bd-6fd7-4dc6-86b5-791a413f4be7)
-<br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br>
 # NSLOOKUP:
 ![image](https://github.com/AnbuSelvanS7/4.Execution_of_NetworkCommends/assets/151528411/a4d8006b-ed52-486f-bd75-f452150e0369)
 
