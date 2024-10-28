@@ -35,20 +35,20 @@ This commands includes
 ## Output
 # PING:
 ![image](https://github.com/AnbuSelvanS7/4.Execution_of_NetworkCommends/assets/151528411/619fe229-ace0-485e-b9b9-1dd69b9dbe62)
-
+<br><br><br><br><br><br>
 # TRACEROUTE:
 ![image](https://github.com/AnbuSelvanS7/4.Execution_of_NetworkCommends/assets/151528411/18d36423-484d-4c29-bc28-3a27cc9220c0)
 
 # IPCONFIG:
 ![image](https://github.com/AnbuSelvanS7/4.Execution_of_NetworkCommends/assets/151528411/07f7db98-4936-4453-b7c7-763724b74ce1)
-
+<br><br><br><br><br><br>
 # NETSTAT:
 ![image](https://github.com/AnbuSelvanS7/4.Execution_of_NetworkCommends/assets/151528411/4d0ddaf6-adf6-4745-8d07-0a708b108c52)
 
 
 # CURL:
 ![image](https://github.com/AnbuSelvanS7/4.Execution_of_NetworkCommends/assets/151528411/28a762bd-6fd7-4dc6-86b5-791a413f4be7)
-
+<br><br><br><br><br><br>
 # NSLOOKUP:
 ![image](https://github.com/AnbuSelvanS7/4.Execution_of_NetworkCommends/assets/151528411/a4d8006b-ed52-486f-bd75-f452150e0369)
 
